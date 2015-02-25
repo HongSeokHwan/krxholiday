@@ -1,0 +1,7 @@
+.idea
+.ropeproject
+build
+dist
+krxholiday.egg-info
+*.pyc
+.pypirc
