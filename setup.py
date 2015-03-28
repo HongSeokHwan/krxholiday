@@ -8,7 +8,7 @@ config = {
     'description': 'krxholiday',
     'author': 'shhong',
     'author_email': 'shhong@mirib.net',
-    'version': '0.9',
+    'version': '0.91',
     'install_requires': [],
     'packages': ['krxholiday'],
     'scripts': [],
